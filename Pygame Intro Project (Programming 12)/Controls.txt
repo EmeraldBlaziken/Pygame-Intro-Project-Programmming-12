@@ -1,0 +1,5 @@
+P1 shoot: G
+P2 shoot: RCTRL
+
+P1 Move: WASD
+P2 Move: Arrow Keys
